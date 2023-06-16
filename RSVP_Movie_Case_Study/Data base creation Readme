@@ -1,0 +1,24 @@
+Data Set and Database Creation
+You were already introduced to the dataset in the optional practice assignment of the Data Modelling module. You might have created the tables and inserted all the values for the entire schema. If you have completed this, you can verify your code and database from the SQL script file given at the bottom of the page.
+
+ 
+
+For those who didn't attempt the optional Data Modelling Assignment, download the dataset given below and follow the given steps to insert all the values for the entire schema. 
+
+ 
+
+Note: It is highly recommended to create the SQL database on your local machine using the below dataset. However, note that this part is completely optional and will not carry any grades and if you wish, you can directly run the SQL script given at the end of this segment to load the dataset.
+
+ 
+
+IMDb Dataset
+Download
+Steps to follow:
+
+Download the IMDb dataset from above.
+The first tab contains the ERD and the table details. Study that carefully and understand the relationships between the table.
+Inspect each table given in the subsequent tabs and understand the features associated with each of them.
+Open your MySQL Workbench and start writing the DDL and DML commands to create the database.
+ 
+
+If you don't wish to perform the data loading part, you can directly download the SQL script file given below containing all the commands and data required for the database creation and start directly with the querying.
